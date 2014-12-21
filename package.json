@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/vicanso/jtview.git"
   },
+  "scripts": {
+    "test": "gulp test"
+  },
   "main": "index",
   "readmeFilename": "README.md",
   "devDependencies": {
