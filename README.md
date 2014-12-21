@@ -1,0 +1,1 @@
+# JTView 用于在node.js中render view，支持普通的模式、bigpipe模式与分块模式
